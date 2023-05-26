@@ -42,6 +42,6 @@
 
 ![alt text](http://url/to/img.png)
 
-![Umnik](UM)
+![Umnik](UM.jpeg)
 
 Сброс в терминале - q
